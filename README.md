@@ -1,4 +1,3 @@
-# Mi-primer-repositorio
 # Declaring a 2D array for a student's grades
 student_grades = [
     [85, 92, 78],
